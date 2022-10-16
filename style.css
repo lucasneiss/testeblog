@@ -1,0 +1,23 @@
+body { background-color: #F5EFE6;}
+.texto {
+  font-family: 'Poppins', sans-serif;
+  margin-left: 1%;
+
+}
+.plano {
+  position: relative;
+  left: 30%;
+}
+
+.fontes {
+  position: relative;
+  top: 99%;
+}
+.cabecalho {
+
+   padding-left: 10px;
+}
+.final {
+
+   padding-left: 10px;
+}
